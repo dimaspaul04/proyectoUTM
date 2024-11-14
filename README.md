@@ -1,2 +1,3 @@
-# proyectoUTM
-Proyectos relacionados con tecnicas de despliegue
+# VetDiagnostic
+
+VetDiagnostic es un laboratorio clínico veterinario ubicado en la ciudad de Quillota
